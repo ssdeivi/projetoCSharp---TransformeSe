@@ -150,7 +150,7 @@ namespace LojaABC
             this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button9.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button9.Image = ((System.Drawing.Image)(resources.GetObject("button9.Image")));
-            this.button9.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button9.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.button9.Location = new System.Drawing.Point(596, 520);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(176, 39);
@@ -158,6 +158,7 @@ namespace LojaABC
             this.button9.Text = "&Voltar";
             this.button9.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // frmMenuPrincipal
             // 
