@@ -29,20 +29,22 @@ namespace LojaABC
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmSplash));
             this.pctLogo = new System.Windows.Forms.PictureBox();
             this.lblNumero = new System.Windows.Forms.Label();
             this.lblPorcentagem = new System.Windows.Forms.Label();
             this.pgbSplash = new System.Windows.Forms.ProgressBar();
+            this.tmrSplash = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pctLogo)).BeginInit();
             this.SuspendLayout();
             // 
             // pctLogo
             // 
             this.pctLogo.Image = ((System.Drawing.Image)(resources.GetObject("pctLogo.Image")));
-            this.pctLogo.Location = new System.Drawing.Point(153, 42);
+            this.pctLogo.Location = new System.Drawing.Point(156, -34);
             this.pctLogo.Name = "pctLogo";
-            this.pctLogo.Size = new System.Drawing.Size(561, 409);
+            this.pctLogo.Size = new System.Drawing.Size(495, 494);
             this.pctLogo.TabIndex = 0;
             this.pctLogo.TabStop = false;
             // 
@@ -52,27 +54,31 @@ namespace LojaABC
             this.lblNumero.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNumero.Location = new System.Drawing.Point(374, 463);
             this.lblNumero.Name = "lblNumero";
-            this.lblNumero.Size = new System.Drawing.Size(13, 13);
+            this.lblNumero.Size = new System.Drawing.Size(0, 13);
             this.lblNumero.TabIndex = 1;
-            this.lblNumero.Text = "0";
             // 
             // lblPorcentagem
             // 
             this.lblPorcentagem.AutoSize = true;
             this.lblPorcentagem.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPorcentagem.Location = new System.Drawing.Point(393, 463);
+            this.lblPorcentagem.Location = new System.Drawing.Point(400, 463);
             this.lblPorcentagem.Name = "lblPorcentagem";
-            this.lblPorcentagem.Size = new System.Drawing.Size(15, 13);
+            this.lblPorcentagem.Size = new System.Drawing.Size(0, 13);
             this.lblPorcentagem.TabIndex = 2;
-            this.lblPorcentagem.Text = "%";
             // 
             // pgbSplash
             // 
-            this.pgbSplash.Location = new System.Drawing.Point(158, 496);
+            this.pgbSplash.Location = new System.Drawing.Point(156, 496);
             this.pgbSplash.Name = "pgbSplash";
-            this.pgbSplash.Size = new System.Drawing.Size(550, 15);
+            this.pgbSplash.Size = new System.Drawing.Size(495, 15);
+            this.pgbSplash.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
             this.pgbSplash.TabIndex = 3;
-            this.pgbSplash.Value = 60;
+            this.pgbSplash.Click += new System.EventHandler(this.pgbSplash_Click);
+            // 
+            // tmrSplash
+            // 
+            this.tmrSplash.Enabled = true;
+            this.tmrSplash.Tick += new System.EventHandler(this.tmrSplash_Tick);
             // 
             // frmSplash
             // 
@@ -88,7 +94,8 @@ namespace LojaABC
             this.MaximizeBox = false;
             this.Name = "frmSplash";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "                           ";
+            this.Text = "LoginBC - Splash";
+            this.Load += new System.EventHandler(this.frmSplash_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pctLogo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -101,5 +108,6 @@ namespace LojaABC
         private System.Windows.Forms.Label lblNumero;
         private System.Windows.Forms.Label lblPorcentagem;
         private System.Windows.Forms.ProgressBar pgbSplash;
+        private System.Windows.Forms.Timer tmrSplash;
     }
 }
