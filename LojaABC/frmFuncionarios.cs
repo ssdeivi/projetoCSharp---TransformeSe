@@ -191,6 +191,13 @@ namespace LojaABC
                 MessageBox.Show("Cadastrado com sucesso");
             }
         }
+
+        private void btnPequisar_Click(object sender, EventArgs e)
+        {
+            frmPesquisarFuncionarios abrir = new frmPesquisarFuncionarios();
+            abrir.Show();
+            this.Hide();
+        }
     }
 
 }

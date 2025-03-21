@@ -1,0 +1,10 @@
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Componente\bin\Debug\Componente.exe.config
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Componente\bin\Debug\Componente.exe
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Componente\bin\Debug\Componente.pdb
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Componente\obj\Debug\Componente.csproj.AssemblyReference.cache
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Componente\obj\Debug\Componente.frmComponentes.resources
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Componente\obj\Debug\Componente.Properties.Resources.resources
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Componente\obj\Debug\Componente.csproj.GenerateResource.cache
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Componente\obj\Debug\Componente.csproj.CoreCompileInputs.cache
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Componente\obj\Debug\Componente.exe
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Componente\obj\Debug\Componente.pdb

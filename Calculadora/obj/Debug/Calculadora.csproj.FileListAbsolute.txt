@@ -1,0 +1,4 @@
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache

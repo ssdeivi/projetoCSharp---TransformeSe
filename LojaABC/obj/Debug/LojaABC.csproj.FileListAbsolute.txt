@@ -12,3 +12,17 @@ C:\Users\deivson.ssilva\Documents\Visual Studio 2019\TranformeSe\LojaABC\obj\Deb
 C:\Users\deivson.ssilva\Documents\Visual Studio 2019\TranformeSe\LojaABC\obj\Debug\LojaABC.frmMenuPrincipal.resources
 C:\Users\deivson.ssilva\Documents\Visual Studio 2019\TranformeSe\LojaABC\obj\Debug\LojaABC.frmFuncionarios.resources
 C:\Users\deivson.ssilva\Documents\Visual Studio 2019\TranformeSe\LojaABC\obj\Debug\LojaABC.frmPesquisarFuncionarios.resources
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\bin\Debug\LojaABC.exe.config
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\bin\Debug\LojaABC.exe
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\bin\Debug\LojaABC.pdb
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\obj\Debug\LojaABC.csproj.AssemblyReference.cache
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\obj\Debug\LojaABC.frmFuncionarios.resources
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\obj\Debug\LojaABC.frmLogin.resources
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\obj\Debug\LojaABC.frmMenuPrincipal.resources
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\obj\Debug\LojaABC.frmPesquisarFuncionarios.resources
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\obj\Debug\LojaABC.frmSplash.resources
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\obj\Debug\LojaABC.Properties.Resources.resources
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\obj\Debug\LojaABC.csproj.GenerateResource.cache
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\obj\Debug\LojaABC.csproj.CoreCompileInputs.cache
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\obj\Debug\LojaABC.exe
+C:\Users\deivson.ssilva\Documents\Visual Studio 2022\projetoCSharp---TransformeSe\LojaABC\obj\Debug\LojaABC.pdb

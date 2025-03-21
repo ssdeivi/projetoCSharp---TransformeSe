@@ -346,6 +346,7 @@ namespace LojaABC
             this.btnPequisar.Text = "Pes&quisar";
             this.btnPequisar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnPequisar.UseVisualStyleBackColor = true;
+            this.btnPequisar.Click += new System.EventHandler(this.btnPequisar_Click);
             // 
             // btnNovo
             // 
